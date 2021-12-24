@@ -7,7 +7,7 @@
 >>I Design/Develop/Resolve on web/mobile/software technologies.  
 
 >
- >>``**ON WEB**``, i do :  **WORDPRESS**,**MEAN**,**MERN**,**NEXTJS**,**LARAVEL**,**HTML**,**CSS**,**JS**,**JQUERY**,**SASS**,**CSS**, **PREPROSSORS**  
+ >>``**ON WEB**``, i do :  **WORDPRESS (Plugin,Themes, Hosting) **,**MEAN**,**MERN**,**NEXTJS**,**LARAVEL**,**HTML**,**CSS**,**JS**,**JQUERY**,**SASS**,**CSS**, **PREPROSSORS**  
 >>``**PROGRAMMING LANGUAGE**``, i do speak and listen to:  **C/C++**,**C#**,**PHP**,**JAVASCRIPT**,**TYPESCRIPT**.  
 
 >
