@@ -14,3 +14,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRIC_SECRET }}
+          plugin_topics: yes
+          plugin_topics_sort: stars    # Sort by most starred topics
+          plugin_topics_mode: icons    # Display icons instead of labels
+          plugin_topics_limit: 0       # Disable limitations
