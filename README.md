@@ -26,8 +26,6 @@
 
 ![Metrics](https://github.com/abbaty48/abbaty48/blob/main/github-metrics.svg)
 
-
-
 ### Connect with me:
 [<img width="32px" alt="abbaty48 | twitter" title="Twitter" align="left" src="https://img.icons8.com/ios/50/000000/twitter-circled--v4.png"/>][twitter]
 [<img width="32px" alt="abbaty abdul | upwork" title="Upwork" align="left" src="https://img.icons8.com/ios/50/000000/upwork.png"/>][upwork]
