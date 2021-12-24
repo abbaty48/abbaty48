@@ -1,6 +1,6 @@
  ### < Trust Me, I’m A Software Engineering />
 ---
-##### 👋Hi, I'm Abbaty Abdul also known as abbatyya.  
+##### 👋Hi, I'm Abbaty Abdul a.k.a abbatyya.  
 
 **I'm** a ``Software Engineering`` / ``Full-stack Developer`` / ``Problem Solver`` 
 
@@ -16,7 +16,7 @@
  >>---I'm always interested in learning,coding,creative, and currently now trying to move forward to Embedded System,AI,ML. 
  
 ---
-<div>
+<div style="background_color=red">
     <a href="https://github.com/abbaty48/abbaty48" target="blank">
         <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=abbaty48&show_icons=true&theme=gruvbox&bg_color=transparent">
         <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbaty48&layout=compact&langs_count=8&show_icons=true&theme=gruvbox&bg_color=transparent)](https://github.com/abbaty48/github-readme-stats">
